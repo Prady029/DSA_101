@@ -1,9 +1,6 @@
 # DSA_101
 > **My journey in DSA using https://www.takeuforward.com**
-
-### I am starting my journey in DSA after dwelling on internet for some time. make no mistake, there is no perfect course.
----
-
+I am starting my journey in DSA after dwelling on internet for some time. make no mistake, there is no perfect course.
 I learnt that its better to start somewhere. I choose Strivers A2Z DSA course for beginners becasue it made a lot of sense the way it is structured.
 The course follows this path and my repo will be constantly get updated in the same manner.
 
