@@ -14,3 +14,5 @@ The course follows this path and my repo will be constantly get updated in the s
 > <p align="center"><img src="images/Python-data-structure.jpg" width="350" alt="Data types"></p>
 3. if-else (Decision Making)
 4. Switch statement : does not apply to python, used if-else - https://blog.teclado.com/python-formatting-numbers-for-printing/
+5. for loops - Binet’s formula, functools.lru_cache
+6. while loops
