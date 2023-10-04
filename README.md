@@ -13,3 +13,8 @@ The course follows this path and my repo will be constantly get updated in the s
 4. Switch statement : does not apply to python, used if-else - https://blog.teclado.com/python-formatting-numbers-for-printing/
 5. for loops - Binet’s formula, functools.lru_cache
 6. while loops
+7. Patterns - https://pynative.com/print-pattern-python-examples/
+
+### Step 1.2: Basic Maths
+1. Count_digit - clever use of strings slicing and list comprehension
+2. Reverse_Bits - https://www.programiz.com/python-programming/methods/built-in/format, https://www.tutorialspoint.com/python/string_zfill.htm
