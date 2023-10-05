@@ -23,5 +23,5 @@ The course follows this path and my repo will be constantly get updated in the s
 
 # Interview problems
 > **Blind 75/79 Problems**
-1. Next Permutation
+1. Next Permutation - https://realpython.com/python-data-structures/
 2. 
