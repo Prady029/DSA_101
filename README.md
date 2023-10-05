@@ -18,3 +18,10 @@ The course follows this path and my repo will be constantly get updated in the s
 ### Step 1.2: Basic Maths
 1. Count_digit - clever use of strings slicing and list comprehension
 2. Reverse_Bits - https://www.programiz.com/python-programming/methods/built-in/format, https://www.tutorialspoint.com/python/string_zfill.htm
+3. HCF calculation - Used maths.gcd method, alternatively, recursion can be used - euler's method.
+
+
+# Interview problems
+> **Blind 75/79 Problems**
+1. Next Permutation
+2. 
